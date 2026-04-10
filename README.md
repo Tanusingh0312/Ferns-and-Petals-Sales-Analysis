@@ -1,2 +1,2 @@
 # Ferns-and-Petals-Sales-Analysis
-This is excel project
+This is an excel project
